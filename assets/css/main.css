@@ -324,5 +324,12 @@ body >  footer > div:nth-child(2){
         margin-top: 26px;
         
         }
-       
+        .mt, .bd{
+            margin-left: 55px;
+            text-align: left;
+        }
+        .admin__nav{
+            text-align: right;
+        }
+        
     }
